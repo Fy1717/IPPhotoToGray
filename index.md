@@ -1,11 +1,7 @@
 ## Welcome to Image Processing Project
 
 
-# Furkan YILDIZ
+## Furkan YILDIZ
 ## github.com/Fy1717
-### youtube.com/helloworldHere
-
-
-### Support or Contact
-
-www.frknyldz.com
+## youtube.com/helloworldHere
+## www.frknyldz.com
