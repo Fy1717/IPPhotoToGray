@@ -1,5 +1,11 @@
-### WELCOME TO IMAGE PROCESSING PROJECT
-
-YOU CAN SEND YOUR PHOTO FOR GET THE PHOTO'S GRAY VERSION..
+## Welcome to Image Processing Project
 
 
+# Furkan YILDIZ
+## github.com/Fy1717
+### youtube.com/helloworldHere
+
+
+### Support or Contact
+
+www.frknyldz.com
